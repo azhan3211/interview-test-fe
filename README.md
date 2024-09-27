@@ -1,6 +1,6 @@
-# Express.js Interview Test Backend
+# Interview Test Frontend
 
-This is an Express.js backend for handling user authentication and notes management. It includes features such as sign-up, sign-in, user profile, and CRUD operations for notes.
+This is an Vite and Reactjs for Frontend. It includes features such as sign-up, sign-in, and CRUD operations for notes.
 
 ## Prerequisites
 
@@ -8,7 +8,6 @@ Make sure you have the following installed:
 
 - [Node.js](https://nodejs.org/) (v20 or higher)
 - [npm](https://www.npmjs.com/)
-- [MySQL](https://www.mysql.com/) for the database
 
 ## Installation
 
